@@ -129,6 +129,6 @@ domestic-platform-vue/
 
 <div align="center">
 
-**© 2026 RongYu · DongHai Brand**
+**© 2026**
 
 </div>
