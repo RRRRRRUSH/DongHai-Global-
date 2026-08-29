@@ -6,6 +6,8 @@
 
 **面向外贸业务的现代品牌门户 —— 沉浸式首屏 · 滚动动效 · 黑白 Logo 自适应**
 
+> **EN** · DongHai Global is a modern brand portal for foreign-trade business, crafted with Vue 3 and Tailwind CSS — immersive hero, elegant scroll-driven interactions, adaptive black/white branding and fully responsive layouts. A zero-backend static site you can ship to Nginx, GitHub Pages or Vercel in minutes.
+
 ![Vue 3](https://img.shields.io/badge/Vue-3.5-42b883?logo=vuedotjs&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-7-646cff?logo=vite&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?logo=tailwindcss&logoColor=white&style=flat-square)
